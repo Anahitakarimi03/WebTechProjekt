@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'btw-berlin.WebTechProjekt' is invalid and this project uses 'btw_berlin.WebTechProjekt' instead.
+* The original package name 'htw-berlin.planner ' is invalid and this project uses 'htw_berlin.planner' instead.
 
 # Getting Started
 

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebTechProjekt.iml" filepath="$PROJECT_DIR$/.idea/modules/WebTechProjekt.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebTechProjekt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/WebTechProjekt.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebTechProjekt.test.iml" filepath="$PROJECT_DIR$/.idea/modules/WebTechProjekt.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/planner_.iml" filepath="$PROJECT_DIR$/.idea/modules/planner_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/planner_.main.iml" filepath="$PROJECT_DIR$/.idea/modules/planner_.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/planner_.test.iml" filepath="$PROJECT_DIR$/.idea/modules/planner_.test.iml" />
     </modules>
   </component>
 </project>

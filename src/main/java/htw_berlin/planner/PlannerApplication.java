@@ -1,13 +1,13 @@
-package btw_berlin.WebTechProjekt;
+package htw_berlin.planner;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WebTechProjektApplication {
+public class PlannerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WebTechProjektApplication.class, args);
+		SpringApplication.run(PlannerApplication.class, args);
 	}
 
 }

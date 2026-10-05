@@ -1,10 +1,10 @@
-package btw_berlin.WebTechProjekt;
+package htw_berlin.planner;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WebTechProjektApplicationTests {
+class PlannerApplicationTests {
 
 	@Test
 	void contextLoads() {
