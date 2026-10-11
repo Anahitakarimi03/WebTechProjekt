@@ -10,7 +10,10 @@ public class PlannerController {
 
     @GetMapping("/")
     public List<PlannerEntry> index() {
-        return List.of(new PlannerEntry("M1"), new PlannerEntry("M2"),new PlannerEntry("M3"),new PlannerEntry("M4"));
+        return List.of(
+                new PlannerEntry(1, "WebTech M1 abgeben", false, "2026, 10, 18"),
+                new PlannerEntry( 2, "Einkaufen", true, "2026, 10, 12"),
+                new PlannerEntry( 3, "Mit Sara treffen", false, "2026, 10, 14")
+        );
     }
-
 }
