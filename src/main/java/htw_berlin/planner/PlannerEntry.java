@@ -6,18 +6,20 @@ public class PlannerEntry {
     private String name;
     private boolean done;
     private String dueDate;
+    private Priority priority;
 
-    public PlannerEntry(int id, String name, boolean isDone, String dueDate) {
+    public PlannerEntry(int id, String name, boolean done, String dueDate, Priority priority) {
 
         this.id = id;
         this.name = name;
         this.done = done ;
         this.dueDate = dueDate;
+        this.priority = priority;
     }
 
     public int getId() { return id; }
 
-    public void setId(int id) {this.id = id;}
+    public void setId(int id) { this.id = id;}
 
     public String getName() {
         return name;
@@ -42,4 +44,7 @@ public class PlannerEntry {
         this.dueDate = dueDate;
     }
 
+    public Priority getPriority() { return priority; }
+
+    public void setPriority(Priority priority) { this.priority = priority; }
 }
