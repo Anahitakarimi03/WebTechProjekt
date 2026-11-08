@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.time.LocalDate;
 import java.util.List;
 
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins =  {"http://localhost:5173", "https://planner-frontend-zgva.onrender.com"})
 
 @RestController
 public class PlannerController {
