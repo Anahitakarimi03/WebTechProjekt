@@ -1,2 +1,13 @@
-node_modules/
+# Gradle
+.gradle/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Geheime Einstellungen
 .env
