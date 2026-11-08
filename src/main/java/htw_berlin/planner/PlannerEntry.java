@@ -1,14 +1,16 @@
 package htw_berlin.planner;
 
 
+import java.time.LocalDate;
+
 public class PlannerEntry {
     private int id;
     private String name;
     private boolean done;
-    private String dueDate;
+    private LocalDate dueDate;
     private Priority priority;
 
-    public PlannerEntry(int id, String name, boolean done, String dueDate, Priority priority) {
+    public PlannerEntry(int id, String name, boolean done, LocalDate dueDate, Priority priority) {
 
         this.id = id;
         this.name = name;
@@ -38,9 +40,9 @@ public class PlannerEntry {
     }
 
 
-    public String getDueDate() { return dueDate; }
+    public LocalDate getDueDate() { return dueDate; }
 
-    public void setDueDate(String dueDate) {
+    public void setDueDate(LocalDate dueDate) {
         this.dueDate = dueDate;
     }
 

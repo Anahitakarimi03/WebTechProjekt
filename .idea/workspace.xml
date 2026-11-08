@@ -5,14 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69df4f3a-318b-49d6-944e-747be725a0e8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/9.7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.7.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.7.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.7.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.7.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/planner_.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/planner_.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/planner_.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/planner_.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/htw_berlin/planner/PlannerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/htw_berlin/planner/PlannerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/htw_berlin/planner/PlannerEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/htw_berlin/planner/PlannerEntry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/htw_berlin/planner/Priority.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/htw_berlin/planner/Priority.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/PlannerController.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/PlannerController.class.uniqueId0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/htw_berlin/planner/PlannerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/htw_berlin/planner/PlannerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/htw_berlin/planner/Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/htw_berlin/planner/Priority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/htw_berlin/planner/PlannerEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/htw_berlin/planner/PlannerEntry.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +113,7 @@
       <workItem from="1791624848858" duration="20833000" />
       <workItem from="1793122603490" duration="2641000" />
       <workItem from="1793701176542" duration="596000" />
-      <workItem from="1793791578439" duration="1428000" />
+      <workItem from="1793791578439" duration="3718000" />
     </task>
     <servers />
   </component>
